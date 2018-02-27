@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="appjhefrey.appselecciontalleres.DatosPersonales"
+    android:weightSum="1">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="andres"
+        android:textAllCaps="true"
+        android:textSize="50sp"
+        android:textStyle="bold|italic"
+        android:textAlignment="center"
+        />
+
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="areniz"
+        android:textAllCaps="true"
+        android:textSize="50sp"
+        android:textStyle="bold|italic"
+
+        />
+
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="2018"
+        android:textAllCaps="true"
+        android:textSize="50sp"
+        android:textStyle="bold|italic"
+        android:textAlignment="center"
+
+        />
+
+
+</LinearLayout>
